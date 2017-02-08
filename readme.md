@@ -43,4 +43,4 @@ Go to browser and run
 http://localhost:8000
 ```
 ## License
-This project is licensed under the [MIT License](LICENSE.txt)
+This project is licensed under the [MIT License](https://github.com/ChilliApple/quicksurvey/blob/master/LICENSE)
