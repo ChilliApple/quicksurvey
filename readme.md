@@ -13,6 +13,8 @@ A NodeJS app for teacher to create some Poll/Survey among their students, socket
 * PostgreSQL DB 9.3
 * Express
 * Socket.io
+
+
 ```
 
 ### Installation
