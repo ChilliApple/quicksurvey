@@ -16,10 +16,13 @@ A NodeJS app for teacher to create some Poll/Survey among their students, socket
 ```
 
 ### Installation
+``` 
+git clone https://github.com/ChilliApple/quicksurvey.git
+```
 ```
 cd <installation folder>
 ```
-e.g. 
+OR 
 `$ cd quicksurvey/`
 
 ```
